@@ -1,0 +1,6 @@
+Carla Castor (800003), Medieninformatik
+Grundlagen der Theoretischen Informatik	1,7
+Mathematik I	2,0
+Mediendesign Grundlagen	2,3
+Programmierung I	1,7
+Technische Grundlagen der Informatik	1,7

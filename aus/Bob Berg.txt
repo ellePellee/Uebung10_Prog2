@@ -1,0 +1,6 @@
+Bob Berg (800002), Medieninformatik
+Grundlagen der Theoretischen Informatik	2,3
+Mathematik I	2,3
+Mediendesign Grundlagen	1,7
+Programmierung I	2,3
+Technische Grundlagen der Informatik	2,0

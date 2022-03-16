@@ -1,0 +1,5 @@
+Anna Alt,800001,Medieninformatik
+Bob Berg,800002,Medieninformatik
+Carla Castor,800003,Medieninformatik
+Daniel Dorf,800004,Medieninformatik
+Eli Eiche,800005,Medieninformatik

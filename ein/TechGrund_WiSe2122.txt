@@ -1,0 +1,6 @@
+Technische Grundlagen der Informatik
+800004	2,0
+800001	1,3
+800002	2,0
+800005	1,7
+800003	1,7

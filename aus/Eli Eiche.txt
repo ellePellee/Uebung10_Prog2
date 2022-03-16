@@ -1,0 +1,6 @@
+Eli Eiche (800005), Medieninformatik
+Grundlagen der Theoretischen Informatik	2,7
+Mathematik I	1,0
+Mediendesign Grundlagen	1,0
+Programmierung I	2,7
+Technische Grundlagen der Informatik	1,7

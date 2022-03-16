@@ -1,0 +1,6 @@
+Anna Alt (800001), Medieninformatik
+Grundlagen der Theoretischen Informatik	3,0
+Mathematik I	2,0
+Mediendesign Grundlagen	2,0
+Programmierung I	3,0
+Technische Grundlagen der Informatik	1,3

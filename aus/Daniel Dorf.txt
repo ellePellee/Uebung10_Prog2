@@ -1,0 +1,6 @@
+Daniel Dorf (800004), Medieninformatik
+Grundlagen der Theoretischen Informatik	1,0
+Mathematik I	1,7
+Mediendesign Grundlagen	1,3
+Programmierung I	1,0
+Technische Grundlagen der Informatik	2,0
