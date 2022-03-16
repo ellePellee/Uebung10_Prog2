@@ -18,6 +18,8 @@ import java.util.Map.Entry;
 public class MainProgramm {
  //versuchGitHub
 
+ staic String tryOut = "mal schauen ob ich jetzt etwas vergleichen kann";
+
 	static Map<Integer, Student> matrikelZuStudent = new HashMap<Integer, Student>();
 
 	public static void teil1() {
